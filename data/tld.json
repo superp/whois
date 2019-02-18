@@ -2264,8 +2264,10 @@
   ".live": {
     "host": "whois.rightside.co"
   },
-  ".studio": {
-    "host": "whois.rightside.co"
+  "studio": {
+    "_group": "donuts",
+    "_type": "newgtld",
+    "host": "whois.nic.studio"
   },
   ".melbourne": {
     "host": "whois.aridnrs.net.au"
